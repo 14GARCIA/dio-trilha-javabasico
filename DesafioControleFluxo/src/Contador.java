@@ -6,6 +6,7 @@ public class Contador {
     public static void main(String[] args) throws Exception {
         Scanner terminal = new Scanner(System.in);
 
+     System.out.println("BEM VINDO!!");
      System.out.println("digite o parametro um:");
      int parametroUm = terminal.nextInt();
      System.err.println("digite o parametro dois");
